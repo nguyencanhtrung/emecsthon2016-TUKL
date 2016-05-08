@@ -36,10 +36,10 @@ Initial Setup Tutorial
 ---
 #####Setup git
 
-1. Download and install git for linux/windown
+1. Download and install git for linux/windows
 2. Open terminal or git bash
 3. Set your name $git config --global user.name "<name>"
-4. Set your mail address $git conifg --global user.email me_at_stupid.com
+4. Set your mail address $git conifg --global user.email email@xx.com
 
 #####Create blink project
 
